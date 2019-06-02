@@ -1,0 +1,16 @@
+
+Summary:
+    1) Has to be 'small' enough
+    2) Has to be done within ceratin time (6 months for example)
+
+AI: list of interesting areas that we possibly can do
+    1) File backup/management system backed with cheap cloud services (S3, Azura, etc.)
+    2) Web browser snapshot
+    3) Wechat apps based on recommendation from your friend only
+
+Next Step:
+    1) Decide one area
+    2) Evaluate tech and bussiness
+
+Next Meeting:
+    6/1?
